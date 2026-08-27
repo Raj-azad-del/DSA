@@ -1,6 +1,6 @@
 # 📝 264. Ugly Number II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/ugly-number-ii/?envType=problem-list-v2&envId=hash-table)
+🔗 [Problem Link](https://leetcode.com/problems/ugly-number-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
