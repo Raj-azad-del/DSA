@@ -8,8 +8,8 @@
 Hash Table, Math, Dynamic Programming, Heap (Priority Queue)
 
 ### 🚀 Performance
-- **Runtime:** 4 ms
-- **Memory:** 12 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
