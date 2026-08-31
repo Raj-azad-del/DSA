@@ -9,7 +9,7 @@ Stack, Tree, Depth-First Search, Binary Tree
 
 ### 🚀 Performance
 - **Runtime:** 0 ms
-- **Memory:** 11 MB
+- **Memory:** 10.9 MB
 
 ---
 
