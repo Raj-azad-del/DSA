@@ -1,6 +1,6 @@
 # 📝 134. Gas Station (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/gas-station)
+🔗 [Problem Link](https://leetcode.com/problems/gas-station/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
