@@ -1,6 +1,6 @@
 # 📝 134. Gas Station (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/gas-station)
+🔗 [Problem Link](https://leetcode.com/problems/gas-station/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Array, Greedy
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 6 ms
+- **Memory:** 115.9 MB
 
 ---
 
