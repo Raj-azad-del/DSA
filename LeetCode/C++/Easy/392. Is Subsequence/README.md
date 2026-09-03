@@ -1,6 +1,6 @@
 # 📝 392. Is Subsequence (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/is-subsequence/)
+🔗 [Problem Link](https://leetcode.com/problems/is-subsequence/?envType=problem-list-v2&envId=dynamic-programming)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
