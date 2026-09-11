@@ -1,15 +1,15 @@
 class Solution {
 public:
+    bool calculate(int n){
+        if(n==1)return true;
+        if(n<1)return false;
+        n=n/3;
+        calculate(n);
+        return true;
+    }
     bool isPowerOfThree(int n) {
-        int k=0;
-    for(int i=0;i<31;i++){
-        if( INT_MIN<n<INT_MAX){
-            if(pow(3,i)==n){
-                k=1;
-                break;
-            }
-        }
-    }  
-    return k;  
+        int res=1;
+     bool x=calculate(n);
+     return x; 
     }
 };
