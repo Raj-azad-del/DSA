@@ -19,7 +19,7 @@ public:
         if(temp->next->val==val){
             temp->next=temp->next->next;
         }
-        temp=temp->next;
+        else temp=temp->next;
       }
       return head;
     }
