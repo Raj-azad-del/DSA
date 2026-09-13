@@ -1,6 +1,6 @@
 # 📝 40. Combination Sum II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/combination-sum-ii)
+🔗 [Problem Link](https://leetcode.com/problems/combination-sum-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Array, Backtracking
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 14.1 MB
 
 ---
 
