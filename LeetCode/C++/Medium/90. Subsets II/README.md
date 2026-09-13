@@ -8,8 +8,8 @@
 Array, Backtracking, Bit Manipulation
 
 ### 🚀 Performance
-- **Runtime:** 7 ms
-- **Memory:** 17.4 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
