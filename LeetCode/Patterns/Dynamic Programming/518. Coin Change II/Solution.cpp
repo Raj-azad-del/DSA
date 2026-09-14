@@ -1,6 +1,7 @@
 class Solution {
 public:
     int solve(vector<int>& coins,int amount,int sum,int index,int& count){
+        if(coins.size()>=1 && amount==0)return 1;
         if(sum==amount){
             count=count+1;
             return 0;
