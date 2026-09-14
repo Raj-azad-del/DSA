@@ -1,6 +1,6 @@
 # 📝 518. Coin Change II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/coin-change-ii/?utm=codolio)
+🔗 [Problem Link](https://leetcode.com/problems/coin-change-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Array, Dynamic Programming, Knapsack Problem, Complete Knapsack
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 63 ms
+- **Memory:** 36.6 MB
 
 ---
 
